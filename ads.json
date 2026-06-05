@@ -1,0 +1,17 @@
+[
+  {
+    "id": "12345678",
+    "owner": "PlayerName",
+    "status": "approved"
+  },
+  {
+    "id": "98765432",
+    "owner": "TemuCharles",
+    "status": "pending"
+  },
+  {
+    "id": "19283746",
+    "owner": "BlueTechnician",
+    "status": "approved"
+  }
+]
